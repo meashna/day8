@@ -1,0 +1,54 @@
+
+.boxmain{
+    display: flex
+ justify-content:center;
+ align items:center;
+ margin:20x;
+}
+
+.box{
+    width:300px;
+    height:max-content;
+    border-radius: 10px;
+    background-color: rgb(72, 235, 235);
+}
+
+.kurtha{
+    width: 300px;
+    height: max-content;}
+
+.para{
+    text-align: center;
+
+}
+
+.MRP{
+    font-size: 16px;
+}
+
+.size{
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    margin-bottom:20px;
+}
+
+button{
+    border-radius: 25px;
+}
+.te{
+    text-align: center;
+}
+
+
+
+.main2{
+    align-items: center;
+    margin:10px;
+}
+
+.xg{
+    color: rgb(250, 23, 23);
+    
+}
